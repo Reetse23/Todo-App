@@ -17,12 +17,6 @@ This is a SwiftUI-based iOS application that combines a **to-do task manager** w
 
 ## 🧱 Project Structure
 
-### 🧠 Controllers
-
-- `TaskManager`: Handles all logic around task creation, filtering, and persistence.
-- `WeatherViewModel`: Fetches and stores weather data.
-- `LocationManager`: Requests location permissions and fetches current coordinates.
-
 ### 📦 Models
 
 - `Task`: A Realm object storing task title, description, and completion state.
@@ -38,6 +32,12 @@ This is a SwiftUI-based iOS application that combines a **to-do task manager** w
 - `TaskRow`: View for each task row, with check and delete functionality.
 - `TaskCreatorView`: Modal for adding a new task.
 - and more...
+
+### 🧠 Controllers
+
+- `TaskManager`: Handles all logic around task creation, filtering, and persistence.
+- `WeatherViewModel`: Fetches and stores weather data.
+- `LocationManager`: Requests location permissions and fetches current coordinates.
 
 ---
 
