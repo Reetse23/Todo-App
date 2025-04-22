@@ -17,7 +17,7 @@ This is a SwiftUI-based iOS application that combines a **to-do task manager** w
 
 ## 🧱 Project Structure
 
-### 🧠 ViewModels & Managers
+### 🧠 Controllers
 
 - `TaskManager`: Handles all logic around task creation, filtering, and persistence.
 - `WeatherViewModel`: Fetches and stores weather data.
